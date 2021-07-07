@@ -1,1 +1,1 @@
-texto de mateo 
+Hola, como pueden ver estamos editando este archivo para comprobar una situación de conflicto en el repositorio de GitHub al, varia personas, editar y subir un mismo archivo.
